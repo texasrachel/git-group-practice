@@ -4,7 +4,9 @@
 
 [ ] made a branch
 
-[ ] pull requests done
+[ ] changes
+
+[ ] pull requests
 
 – we're done –
 
